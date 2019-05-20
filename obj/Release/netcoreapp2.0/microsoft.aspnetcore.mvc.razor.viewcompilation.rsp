@@ -1,0 +1,12 @@
+C:\SA\AnatolyTest\AnatolyTest
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=AnatolyTest
+--content-root=C:\SA\AnatolyTest\AnatolyTest
+--file=C:\SA\AnatolyTest\AnatolyTest\Pages\About.cshtml
+--file=C:\SA\AnatolyTest\AnatolyTest\Pages\Contact.cshtml
+--file=C:\SA\AnatolyTest\AnatolyTest\Pages\Error.cshtml
+--file=C:\SA\AnatolyTest\AnatolyTest\Pages\Index.cshtml
+--file=C:\SA\AnatolyTest\AnatolyTest\Pages\_Layout.cshtml
+--file=C:\SA\AnatolyTest\AnatolyTest\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\SA\AnatolyTest\AnatolyTest\Pages\_ViewImports.cshtml
+--file=C:\SA\AnatolyTest\AnatolyTest\Pages\_ViewStart.cshtml

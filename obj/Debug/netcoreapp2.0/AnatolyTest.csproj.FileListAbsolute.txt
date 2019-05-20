@@ -1,0 +1,11 @@
+C:\SA\AnatolyTest\AnatolyTest\bin\Debug\netcoreapp2.0\AnatolyTest.deps.json
+C:\SA\AnatolyTest\AnatolyTest\bin\Debug\netcoreapp2.0\AnatolyTest.runtimeconfig.json
+C:\SA\AnatolyTest\AnatolyTest\bin\Debug\netcoreapp2.0\AnatolyTest.runtimeconfig.dev.json
+C:\SA\AnatolyTest\AnatolyTest\bin\Debug\netcoreapp2.0\AnatolyTest.dll
+C:\SA\AnatolyTest\AnatolyTest\bin\Debug\netcoreapp2.0\AnatolyTest.pdb
+C:\SA\AnatolyTest\AnatolyTest\obj\Debug\netcoreapp2.0\AnatolyTest.csprojResolveAssemblyReference.cache
+C:\SA\AnatolyTest\AnatolyTest\obj\Debug\netcoreapp2.0\AnatolyTest.csproj.CoreCompileInputs.cache
+C:\SA\AnatolyTest\AnatolyTest\obj\Debug\netcoreapp2.0\AnatolyTest.AssemblyInfoInputs.cache
+C:\SA\AnatolyTest\AnatolyTest\obj\Debug\netcoreapp2.0\AnatolyTest.AssemblyInfo.cs
+C:\SA\AnatolyTest\AnatolyTest\obj\Debug\netcoreapp2.0\AnatolyTest.dll
+C:\SA\AnatolyTest\AnatolyTest\obj\Debug\netcoreapp2.0\AnatolyTest.pdb
